@@ -1,0 +1,93 @@
+.roboto-serif {
+    font-family: "Roboto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100,
+      "GRAD" 0;
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+}
+
+header img {
+    width: 200px;
+    margin: 1rem 0;
+}
+
+header h3 {
+    background-color: lightyellow;
+    border-top: solid yellow;
+    font-size: 20px;
+    padding: 0.8rem;
+    margin-bottom: 100px;
+}
+
+main {
+    text-align: center;
+    width: 50%;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+main p {
+    font-size: 30px;
+}
+
+main img {
+    border-radius: 12px;
+    width: 100%;
+}
+
+main h4 {
+    color:grey;
+    font-size: 25px;
+}
+
+.h3-main {
+    border-left: solid red 1px;
+    text-align: left;
+    padding-left: 10px;
+
+}
+
+section span {
+    color:red;
+}
+
+article h2 {
+    text-align: left;
+    border-bottom: 1px solid lightblue;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+article ul {
+    text-align: left;
+}
+
+article h5 {
+    text-align: left;
+    font-size: 20px;
+}
+
+article p {
+    font-size: 10px;
+}
+
+article ol {
+    text-align: left;
+}
+
+footer {
+    text-align: left;
+}
+
